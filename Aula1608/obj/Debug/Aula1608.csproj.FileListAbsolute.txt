@@ -1,0 +1,13 @@
+C:\Users\marcus.pinto\source\repos\Aula1608\bin\Debug\Aula1608.exe.config
+C:\Users\marcus.pinto\source\repos\Aula1608\bin\Debug\Aula1608.exe
+C:\Users\marcus.pinto\source\repos\Aula1608\bin\Debug\Aula1608.pdb
+C:\Users\marcus.pinto\source\repos\Aula1608\obj\Debug\Aula1608.csprojAssemblyReference.cache
+C:\Users\marcus.pinto\source\repos\Aula1608\obj\Debug\Aula1608.Exec02.resources
+C:\Users\marcus.pinto\source\repos\Aula1608\obj\Debug\Aula1608.Form1.resources
+C:\Users\marcus.pinto\source\repos\Aula1608\obj\Debug\Aula1608.Properties.Resources.resources
+C:\Users\marcus.pinto\source\repos\Aula1608\obj\Debug\Aula1608.csproj.GenerateResource.cache
+C:\Users\marcus.pinto\source\repos\Aula1608\obj\Debug\Aula1608.csproj.CoreCompileInputs.cache
+C:\Users\marcus.pinto\source\repos\Aula1608\obj\Debug\Aula1608.exe
+C:\Users\marcus.pinto\source\repos\Aula1608\obj\Debug\Aula1608.pdb
+C:\Users\marcus.pinto\source\repos\Aula1608\obj\Debug\Aula1608.Exec03FM.resources
+C:\Users\marcus.pinto\source\repos\Aula1608\obj\Debug\Aula1608.Exec03.resources
