@@ -28,7 +28,9 @@ namespace Aula1608
             AtualizaDG();
 
         }
-
+        /// <summary>
+        /// teste
+        /// </summary>
         private void AtualizaDG()
         {
             List<string[]> lista = DBFunction.GenericSelectAll("Historico");
